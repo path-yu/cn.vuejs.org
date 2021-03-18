@@ -104,7 +104,7 @@ new Vue({
 </div>
 ```
 
-除了数据 property，Vue 实例还暴露了一些有用的实例 property 与方法。它们都有前缀 `$`，以便与用户定义的 property 区分开来。例如：
+除了数据 property，Vue 实例还暴露了一些有用的实例 property 与方法。它们都有前缀 `$`，以便与用户定义的 property 区分开来。例如
 
 ```js
 var data = { a: 1 }
